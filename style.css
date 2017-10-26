@@ -4,5 +4,7 @@ body {
   margin:20px;
   padding:0;
   max-width:500px;
+  line-height: 1.35;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
